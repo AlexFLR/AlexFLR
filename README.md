@@ -1,8 +1,6 @@
-# 👋 Hi there, I'm Mihai-Alexandru
+# 👋 Hi there, I'm Alex
 
-🎓 Master's student in *Business-Oriented Databases*  
-📊 Data Analyst at **Engie Romania**  
-🧠 Passionate about Machine Learning, AI integration (RAG), and modern databases (SQL & NoSQL)
+ Passionate about Machine Learning, AI integration (RAG), and modern databases (SQL & NoSQL)
 
 ---
 
@@ -11,7 +9,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SAS](https://img.shields.io/badge/-SAS-0055A2?style=flat&logo=sas&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
