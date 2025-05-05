@@ -22,7 +22,6 @@
 - 🧠 **Habit Tracker App** – Built with Django + MySQL, includes habit tracking, analytics charts, and a GitHub-style heatmap
 - 📚 **MongoDB Library** – NoSQL project managing books, borrowers, genres, publishers, and reviews
 - 🤖 **AI Threat Classifier** – Logistic regression model predicting perception of AI risk (based on Stack Overflow Developer Survey)
-- 📊 **SAS Data Pipeline** – Cleaned, transformed, and merged business data using multiple SAS procedures
 
 ---
 
