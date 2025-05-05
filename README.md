@@ -1,5 +1,3 @@
-![Header](github-header-image.png)
-
 # 👋 Hi there, I'm Alex
 
  Passionate about Machine Learning, AI integration (RAG), and modern databases (SQL & NoSQL)
@@ -7,7 +5,7 @@
 ---
 
 ## 💻 Tech Stack
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="Animated banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="Animated banner" width="25%" />
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
