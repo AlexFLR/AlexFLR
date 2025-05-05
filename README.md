@@ -1,3 +1,5 @@
+<img src="https://your-gif-url.com/banner.gif" alt="banner" width="100%" />
+
 # 👋 Hi there, I'm Alex
 
  Passionate about Machine Learning, AI integration (RAG), and modern databases (SQL & NoSQL)
@@ -28,7 +30,7 @@
 
 - Django REST API development
 - Power BI dashboards 
-- Applied ML with Scikit-learn
+- ML & Statistics 
 
 ---
 
