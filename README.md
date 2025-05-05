@@ -1,4 +1,4 @@
-![Header](./github-header-iamge.png)
+![Header](github-header-iamge.png)
 
 # 👋 Hi there, I'm Alex
 
