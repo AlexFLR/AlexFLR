@@ -1,4 +1,4 @@
-![Header](github-header-iamge.png)
+![Header](github-header-image.png)
 
 # 👋 Hi there, I'm Alex
 
@@ -7,7 +7,8 @@
 ---
 
 ## 💻 Tech Stack
-<img src="[https://your-gif-url.com/banner.gif](https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif)" alt="banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="Animated banner" width="100%" />
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
